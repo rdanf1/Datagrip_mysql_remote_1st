@@ -1,0 +1,2 @@
+: mysql -h mysql-rdanbdd.alwaysdata.net -u rdanbdd_rdan -p rdanbdd_rdandb
+Enter password: 
